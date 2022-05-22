@@ -1,7 +1,6 @@
 ### Hi there 👋, i am Rahat Uddin Azad
 #### I am MERN STACK DEVELOPER
-![I am MERN STACK DEVELOPER]
-<!-- (https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png) -->
+<!-- ![I am MERN STACK DEVELOPER](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png) -->
 
 I have strong experience in software development and has excellent interpersonal and analytical skills
 looking to secure a position as a Software engineer in a fast-paced organization where I can use
