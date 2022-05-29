@@ -1,6 +1,6 @@
 ### Hi there 👋, i am Rahat Uddin Azad
 #### I am MERN STACK DEVELOPER
-<img src="https://i.ibb.co/hHdBMCt/Blue-Colorful-Job-Vacancy-Linked-In-Post.png" alt="drawing"height="400" width="500"/>
+<img src="https://i.ibb.co/hHdBMCt/Blue-Colorful-Job-Vacancy-Linked-In-Post.png" alt="drawing"  width="500"/>
 
 I have strong experience in software development and has excellent interpersonal and analytical skills
 looking to secure a position as a Software engineer in a fast-paced organization where I can use
