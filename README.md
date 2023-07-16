@@ -9,7 +9,7 @@ my skills to the company's advantage while having the scope to develop my own sk
 
 
 
-- 🔭 I’m currently working on a full stack website social networking site using React, daisy ui, and Express js
+- 🔭 I’m currently working on a full stack social networking site using React, daisy ui, and Express js
 - 🌱 I’m currently learning Typescript, Mongoose, Redux, Next.js, AWS, Docker
 - 📫 How to reach me: rahatuddin786@gmail.com 
 
