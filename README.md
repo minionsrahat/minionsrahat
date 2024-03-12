@@ -1,5 +1,5 @@
 
-<img src="https://github.com/minionsrahat/minionsrahat/blob/master/Cover%20Image..jpg" alt="drawing"  />
+<img src="https://github.com/minionsrahat/minionsrahat/blob/master/Cover%20Image%20v2.jpg" alt="drawing"  />
 
 # 💫 About Me:
 Hi everyone, welcome to my GitHub profile!<br>I'm Rahat, a software engineer with a passion for building robust and error-free full-stack web applications. <br>I always love to use my creativity to ensure 100% client satisfaction. <br>I thrive in fast-paced organization where I can use my skills to the company's advantage while having the scope to develop my own skills.<br><br>🔭 I’m currently working as a Software engineer at Innovatech<br>🌱 I’m currently learning apiato(scalable and enterprise-grade framework layered atop Larave)<br>💬 How to reach me: rahatuddin786@gmail.com
